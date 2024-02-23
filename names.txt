@@ -1,3 +1,3 @@
 role,NetID,LastName,FirstName
-boss,gesullivan,Sullivan,Grace
+boss,gesullivan,Sullivan,Grace 
 employee,hroloff,Roloff,Harrison
